@@ -33,7 +33,7 @@ Tài liệu này quy định các tiêu chuẩn và quy tắc dành cho sinh vi�
 
 ### Tần suất thực tập
 - Không bắt buộc phải lên văn phòng hàng ngày
-- Tần suất thực tập tối đa: **1 lần/tuần**
+- Tần suất thực tập tối thiểu: **1 lần/tuần**
 - Tần suất thực tập tối thiểu: **6 lần/3 tháng**
 - Nên duy trì lịch thực tập đều đặn để đảm bảo tiến độ công việc và đánh giá tốt
 - Sinh viên đã đăng ký lịch cần tuân thủ nghiêm túc để tránh ảnh hưởng đến điểm số
